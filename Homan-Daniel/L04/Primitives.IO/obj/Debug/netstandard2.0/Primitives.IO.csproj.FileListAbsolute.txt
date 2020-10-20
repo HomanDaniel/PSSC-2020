@@ -1,0 +1,9 @@
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+C:\Users\iasmi\Desktop\ddds\Nechifor Cosmina\L04\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb
