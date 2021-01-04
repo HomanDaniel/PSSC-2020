@@ -9,10 +9,12 @@
     <ProjectReference Include="..\..\Primitives\Access.Primitives.IO\Access.Primitives.IO.csproj" />
     <ProjectReference Include="..\StackUnderflow.Schema\StackUnderflow.DatabaseModel.csproj" />
     <PackageReference Include="CSharp.Choices" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Access\Primitives\" />
+    <Folder Include="Microsoft\" />
   </ItemGroup>
 
 </Project>

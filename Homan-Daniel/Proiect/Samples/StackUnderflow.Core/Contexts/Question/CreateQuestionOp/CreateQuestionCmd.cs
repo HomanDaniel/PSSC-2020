@@ -11,10 +11,7 @@ namespace StackUnderflow.Domain.Core.Contexts.Question.CreateQuestionOp
 {
     public struct CreateQuestionCmd
     {
-        public interface ICreateQuestionResult : IDynClonable
-        {
-            Microsoft.AspNetCore.Mvc.IActionResult Match(Func<ConfirmationResult.QuestionConfirmed, Microsoft.AspNetCore.Mvc.OkObjectResult> p1, Func<ConfirmationResult.QuestionNotConfirmed, Microsoft.AspNetCore.Mvc.ObjectResult> p2, Func<ConfirmationResult.InvalidRequest, Microsoft.AspNetCore.Mvc.BadRequestObjectResult> p3);
-        }
+        
         public CreateQuestionCmd(Guid organisationId, string userName, string questionTitle, string questionBody, string questionTags, Guid userId, Guid questionId)
         {
             OrganisationId = organisationId;
